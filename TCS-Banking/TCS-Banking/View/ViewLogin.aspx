@@ -23,16 +23,13 @@
     <title>Trainee Banking - Login</title>
 </head>
 <body class="text-center">
-    <form id="form1" runat="server" class="container col-4">
+    <form id="form1" runat="server" class="form-signin">
         <div class="fundoPreto">
             <asp:Image ID="imgLogo" runat="server" class="background" ImageUrl="~/Images/TB_logo.png" />
             <br />
             <br />
-            <br />
-            <br />
             <asp:TextBox ID="txtAgencia" runat="server" class="form-control forma" MaxLength="15" placeholder="Agência"></asp:TextBox>
             <asp:TextBox ID="txtConta" runat="server" class="form-control formc" MaxLength="15" placeholder="Conta"></asp:TextBox>
-            <br />
             <asp:TextBox ID="txtSenha" runat="server" class="form-control forms" MaxLength="15" TextMode="Password" placeholder="Senha"></asp:TextBox>
             <asp:Button ID="btnAcessar" class="btn btn-primary btna" runat="server" Text="Acessar" Font-Size="Small" Width="77" Height="35px" />
         </div>
