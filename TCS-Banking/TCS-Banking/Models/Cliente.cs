@@ -56,11 +56,11 @@ namespace TCS_Banking.Models
             set { dataCadastroCliente = value; }
         }
 
-        /*private Endereco endereco;
+        private Endereco endereco;
         public Endereco Enderec
         {
             get { return endereco; }
             set { endereco = value; }
-        }*/
+        }
     }
 }
