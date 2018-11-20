@@ -1,0 +1,17 @@
+﻿body {
+    background-image: url(../../Images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fundoPreto {
+    background-color: black;
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.background{
+    max-height: 200px;
+    max-width: 200px;
+}
