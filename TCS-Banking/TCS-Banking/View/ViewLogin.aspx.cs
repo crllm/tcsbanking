@@ -13,5 +13,10 @@ namespace TCS_Banking.View
         {
 
         }
+
+        protected void btnAcessar_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("~/View/ViewHome.aspx");
+        }
     }
 }

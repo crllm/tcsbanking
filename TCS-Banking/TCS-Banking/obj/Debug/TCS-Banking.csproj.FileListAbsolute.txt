@@ -169,3 +169,13 @@ C:\Users\Carolyna Mantovani\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\
 C:\Users\Carolyna Mantovani\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\obj\Debug\TCS-Banking.csproj.CopyComplete
 C:\Users\Carolyna Mantovani\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\obj\Debug\TCS-Banking.dll
 C:\Users\Carolyna Mantovani\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\obj\Debug\TCS-Banking.pdb
+C:\Users\Asus\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\bin\Google.Protobuf.dll
+C:\Users\Asus\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\bin\MySql.Data.xml
+C:\Users\Asus\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\bin\System.Net.Http.Formatting.dll
+C:\Users\Asus\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\bin\System.Web.Http.dll
+C:\Users\Asus\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\bin\System.Web.Http.WebHost.dll
+C:\Users\Asus\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\bin\System.Net.Http.Formatting.xml
+C:\Users\Asus\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\bin\System.Web.Http.xml
+C:\Users\Asus\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\bin\System.Web.Http.WebHost.xml

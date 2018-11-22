@@ -31,7 +31,7 @@
             <asp:TextBox ID="txtAgencia" runat="server" class="form-control forma" MaxLength="15" placeholder="Agência"></asp:TextBox>
             <asp:TextBox ID="txtConta" runat="server" class="form-control formc" MaxLength="15" placeholder="Conta"></asp:TextBox>
             <asp:TextBox ID="txtSenha" runat="server" class="form-control forms" MaxLength="15" TextMode="Password" placeholder="Senha"></asp:TextBox>
-            <asp:Button ID="btnAcessar" class="btn btn-primary btna" runat="server" Text="Acessar" Font-Size="Small" Width="77" Height="35px" />
+            <asp:Button ID="btnAcessar" class="btn btn-primary btna" runat="server" Text="Acessar" Font-Size="Small" Width="77" Height="35px" OnClick="btnAcessar_Click" />
         </div>
     </form>
 </body>

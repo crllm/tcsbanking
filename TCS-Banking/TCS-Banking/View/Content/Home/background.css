@@ -4,9 +4,35 @@
     background-size: cover;
 }
 
-
-.formTitulo{
-    text-align: center;
+.vr {
+    display: inline;
+    height: 100%;
+    width: 1px;
+    border: 1px inset;
+    margin: 5px;
 }
 
+.logout {
+    background-color: rgba(11, 62, 128, 1);
+}
 
+.hr {
+    width: 100%;
+    border-bottom: 1px solid #000;
+    height: 1px;
+}
+
+.blackBorderRight{
+    border-right: 1px solid #000;
+}
+
+.blackBorderTop {
+    border-top: 1px solid #000;
+    padding-top: 20px;
+    width: 275px;
+}
+
+.blackBorderTop2 {
+    border-top: 1px solid #000;
+    padding-top: 20px;
+}
