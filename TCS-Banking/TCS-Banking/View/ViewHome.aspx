@@ -26,8 +26,8 @@
         <div class="form-inline">
             <asp:Image ID="logo_TB" runat="server" ImageUrl="~/Images/Logo_TB_Azul.png" />
             <div align="center">
-                <asp:Label ID="lblBemVindo" runat="server" Text="Bem vindo " Font-Size="40"></asp:Label>
-                <asp:Label ID="lblNome" runat="server" Text="Nome" Font-Size="40"></asp:Label>
+                    <asp:Label ID="lblBemVindo" runat="server" Text="Bem vindo " ></asp:Label>
+                    <asp:Label ID="lblNome" runat="server" Text="Nome" ></asp:Label>
             </div>
         </div>
 

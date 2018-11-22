@@ -84,6 +84,7 @@
     <Content Include="Images\logout.png" />
     <Content Include="Images\Logo_TB_Azul.png" />
     <Content Include="Images\TB_logo.png" />
+    <Content Include="View\Content\Cliente\background.css" />
     <Content Include="View\Content\Home\background.css" />
     <Content Include="View\Content\Login\background.css" />
     <Content Include="View\Content\css\bootstrap-responsive.css" />

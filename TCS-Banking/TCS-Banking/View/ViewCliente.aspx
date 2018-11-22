@@ -12,13 +12,20 @@
     <link href="Content/signin.css" rel="stylesheet">
 
     <%--<script src="scripts/JS/jquery-1.12.4.min.js"></script>--%>
+
+    <link href="Content/Cliente/background.css" rel="stylesheet" />
     <title></title>
 </head>
 <body>
     <form id="form1" runat="server">
-        <p>
-            Alteração do Cadastro
-        </p>
+
+
+        <h1>Alteração do Cadastro</h1>
+        <div class="fundoCinza" align="center">
+
+            <asp:Image ID="logo_TB" runat="server" ImageUrl="~/Images/Logo_TB_Azul.png" />
+
+        </div>
         <p>
             <asp:Label ID="agencia" runat="server" Text="Agência:"></asp:Label>
             &nbsp;&nbsp;&nbsp;
@@ -65,6 +72,7 @@
             <asp:TextBox ID="txtCelular" runat="server"></asp:TextBox>
         </p>
         <asp:Button ID="btnSalvar" runat="server" Text="Salvar" />
+
     </form>
 </body>
 </html>
