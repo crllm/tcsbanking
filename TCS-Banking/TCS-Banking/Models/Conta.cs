@@ -55,5 +55,7 @@ namespace TCS_Banking.Models
             get { return dataRegistroConta; }
             set { dataRegistroConta = value; }
         }
+        
+
     }
 }
