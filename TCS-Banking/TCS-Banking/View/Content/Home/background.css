@@ -1,0 +1,12 @@
+﻿body {
+    background-image: url(../../../Images/Background_cliente.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.formTitulo{
+    text-align: center;
+}
+
+

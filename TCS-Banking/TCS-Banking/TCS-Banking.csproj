@@ -71,7 +71,21 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
-    <Content Include="View\Content\background.css" />
+    <Content Include="Images\background.png" />
+    <Content Include="Images\Background_cliente.png" />
+    <Content Include="Images\icone_alteraçãoDadosCadastrais.png" />
+    <Content Include="Images\icone_emprestimos.png" />
+    <Content Include="Images\icone_extrato.png" />
+    <Content Include="Images\icone_investimento.png" />
+    <Content Include="Images\icone_pagamento.png" />
+    <Content Include="Images\icone_saldo.png" />
+    <Content Include="Images\left-arrow.png" />
+    <Content Include="Images\login_bk.jpg" />
+    <Content Include="Images\logout.png" />
+    <Content Include="Images\Logo_TB_Azul.png" />
+    <Content Include="Images\TB_logo.png" />
+    <Content Include="View\Content\Home\background.css" />
+    <Content Include="View\Content\Login\background.css" />
     <Content Include="View\Content\css\bootstrap-responsive.css" />
     <Content Include="View\Content\css\bootstrap-responsive.min.css" />
     <Content Include="View\Content\css\bootstrap.css" />
@@ -140,11 +154,14 @@
     <Content Include="View\Content\signin.css" />
     <Content Include="View\JS\Mascara.js" />
     <Content Include="View\ViewCliente.aspx" />
+    <Content Include="View\ViewHome.aspx" />
     <Content Include="View\ViewLogin.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Connection\Conexao.cs" />
+    <Compile Include="DAO\ClienteDAO.cs" />
+    <Compile Include="DAO\IDAO.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -159,6 +176,13 @@
     </Compile>
     <Compile Include="View\ViewCliente.aspx.designer.cs">
       <DependentUpon>ViewCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\ViewHome.aspx.cs">
+      <DependentUpon>ViewHome.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\ViewHome.aspx.designer.cs">
+      <DependentUpon>ViewHome.aspx</DependentUpon>
     </Compile>
     <Compile Include="View\ViewLogin.aspx.cs">
       <DependentUpon>ViewLogin.aspx</DependentUpon>

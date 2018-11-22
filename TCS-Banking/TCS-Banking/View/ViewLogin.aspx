@@ -18,7 +18,7 @@
     <%--<script src="scripts/JS/jquery-1.12.4.min.js"></script>--%>
     <script src="scripts/JS/Bootstrap.js"></script>
 
-    <link href="Content/background.css" rel="stylesheet" />
+    <link href="Content/login/background.css" rel="stylesheet" />
 
     <title>Trainee Banking - Login</title>
 </head>

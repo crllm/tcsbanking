@@ -108,6 +108,5 @@ C:\Users\Asus\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\bin\roslyn\vbc
 C:\Users\Asus\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\bin\roslyn\VBCSCompiler.exe
 C:\Users\Asus\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Asus\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Asus\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\bin\MySql.Data.dll
 C:\Users\Asus\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Asus\Documents\GitHub\tcsbanking\TCS-Banking\TCS-Banking\obj\Debug\TCS-Banking.csproj.CopyComplete
